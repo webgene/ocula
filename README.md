@@ -4,3 +4,5 @@ Visual Regression Testing Tool
 ## Installation
 
   `npm install ocula`
+
+##
